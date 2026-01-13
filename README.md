@@ -25,7 +25,7 @@ Trabajo principalmente con **Angular, Node.js y bases de datos relacionales**, y
 
 ---
 
-### Tecnologías con experiencia intermedia
+### Tecnologías con experiencia básica-intermedia
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,php,laravel,docker,aws,bash,powershell,androidstudio,kafka" height="40"/>
