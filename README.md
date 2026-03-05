@@ -13,14 +13,14 @@
 Soy estudiante de **Ingeniería en Computación** con enfoque en **seguridad y desarrollo de software**.  
 Trabajo tanto en frontend como en backend. Actualmente ando iniciando en el mundo de la seguridad y explorando el mundo de Linux (Mint MATE y Kali en VMWare).
 
-Trabajo principalmente con **Angular, Node.js y bases de datos relacionales**, y tengo experiencia académica en proyectos de **visualización de datos, UX/UI y análisis de información**.
+Trabajo principalmente con **Python, Node.js y bases de datos relacionales**, y tengo experiencia académica en proyectos de **visualización de datos, UX/UI y análisis de información**.
 
 ---
 
 ### Tecnologías que manejo con confianza
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,nodejs,express,sequelize,postgres,mysql,python,java,git,github,postman,unity" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react,flask,nodejs,express,sequelize,postgres,mysql,python,java,git,github,postman,unity" height="40"/>
 </div>
 
 ---
